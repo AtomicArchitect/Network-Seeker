@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/eye-scanner.png</file>
+    </qresource>
+</RCC>
